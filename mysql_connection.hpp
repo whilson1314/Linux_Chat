@@ -21,7 +21,7 @@ public:
         std::string user_name = "root";
 
         //密码
-        std::string pwd = "shenshenwx.";
+        std::string pwd = "";
 
         //数据库
         std::string dbname = "test_connection";
